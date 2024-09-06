@@ -138,7 +138,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o2j823evu8ZrsurBuZMJ-31" value="Modules" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="892" y="266" width="2497" height="82" as="geometry" />
+          <mxGeometry x="501" y="480" width="2497" height="82" as="geometry" />
         </mxCell>
         <mxCell id="o2j823evu8ZrsurBuZMJ-32" value="Sales Management" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="o2j823evu8ZrsurBuZMJ-31">
           <mxGeometry x="43" y="33" width="153" height="32" as="geometry" />
